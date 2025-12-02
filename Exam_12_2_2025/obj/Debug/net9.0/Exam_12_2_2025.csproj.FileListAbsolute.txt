@@ -1,0 +1,14 @@
+C:\Users\LLC LEADER\OneDrive\Рабочий стол\WebApiDotnet\Exam_12_2_2025\Exam_12_2_2025\bin\Debug\net9.0\Exam_12_2_2025.exe
+C:\Users\LLC LEADER\OneDrive\Рабочий стол\WebApiDotnet\Exam_12_2_2025\Exam_12_2_2025\bin\Debug\net9.0\Exam_12_2_2025.deps.json
+C:\Users\LLC LEADER\OneDrive\Рабочий стол\WebApiDotnet\Exam_12_2_2025\Exam_12_2_2025\bin\Debug\net9.0\Exam_12_2_2025.runtimeconfig.json
+C:\Users\LLC LEADER\OneDrive\Рабочий стол\WebApiDotnet\Exam_12_2_2025\Exam_12_2_2025\bin\Debug\net9.0\Exam_12_2_2025.dll
+C:\Users\LLC LEADER\OneDrive\Рабочий стол\WebApiDotnet\Exam_12_2_2025\Exam_12_2_2025\bin\Debug\net9.0\Exam_12_2_2025.pdb
+C:\Users\LLC LEADER\OneDrive\Рабочий стол\WebApiDotnet\Exam_12_2_2025\Exam_12_2_2025\obj\Debug\net9.0\Exam_12_2_2025.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LLC LEADER\OneDrive\Рабочий стол\WebApiDotnet\Exam_12_2_2025\Exam_12_2_2025\obj\Debug\net9.0\Exam_12_2_2025.AssemblyInfoInputs.cache
+C:\Users\LLC LEADER\OneDrive\Рабочий стол\WebApiDotnet\Exam_12_2_2025\Exam_12_2_2025\obj\Debug\net9.0\Exam_12_2_2025.AssemblyInfo.cs
+C:\Users\LLC LEADER\OneDrive\Рабочий стол\WebApiDotnet\Exam_12_2_2025\Exam_12_2_2025\obj\Debug\net9.0\Exam_12_2_2025.csproj.CoreCompileInputs.cache
+C:\Users\LLC LEADER\OneDrive\Рабочий стол\WebApiDotnet\Exam_12_2_2025\Exam_12_2_2025\obj\Debug\net9.0\Exam_12_2_2025.dll
+C:\Users\LLC LEADER\OneDrive\Рабочий стол\WebApiDotnet\Exam_12_2_2025\Exam_12_2_2025\obj\Debug\net9.0\refint\Exam_12_2_2025.dll
+C:\Users\LLC LEADER\OneDrive\Рабочий стол\WebApiDotnet\Exam_12_2_2025\Exam_12_2_2025\obj\Debug\net9.0\Exam_12_2_2025.pdb
+C:\Users\LLC LEADER\OneDrive\Рабочий стол\WebApiDotnet\Exam_12_2_2025\Exam_12_2_2025\obj\Debug\net9.0\Exam_12_2_2025.genruntimeconfig.cache
+C:\Users\LLC LEADER\OneDrive\Рабочий стол\WebApiDotnet\Exam_12_2_2025\Exam_12_2_2025\obj\Debug\net9.0\ref\Exam_12_2_2025.dll
