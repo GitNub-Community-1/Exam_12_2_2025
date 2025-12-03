@@ -12,3 +12,4 @@ C:\Users\LLC LEADER\OneDrive\Рабочий стол\WebApiDotnet\Exam_12_2_2025
 C:\Users\LLC LEADER\OneDrive\Рабочий стол\WebApiDotnet\Exam_12_2_2025\Exam_12_2_2025\obj\Debug\net9.0\Exam_12_2_2025.pdb
 C:\Users\LLC LEADER\OneDrive\Рабочий стол\WebApiDotnet\Exam_12_2_2025\Exam_12_2_2025\obj\Debug\net9.0\Exam_12_2_2025.genruntimeconfig.cache
 C:\Users\LLC LEADER\OneDrive\Рабочий стол\WebApiDotnet\Exam_12_2_2025\Exam_12_2_2025\obj\Debug\net9.0\ref\Exam_12_2_2025.dll
+C:\Users\LLC LEADER\OneDrive\Рабочий стол\WebApiDotnet\Exam_12_2_2025\Exam_12_2_2025\obj\Debug\net9.0\Exam_12_2_2025.sourcelink.json

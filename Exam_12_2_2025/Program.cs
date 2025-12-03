@@ -121,9 +121,17 @@ var people = new List<Person>
     new() { Id = 6, FullName = "Иванов Сергей Петрович", Age = 52, CityId = 4 },
     new() { Id = 7, FullName = "Нурматов Бекзод", Age = 31, CityId = 5 },
     new() { Id = 8, FullName = "Ахмедова Гульнора", Age = 23, CityId = 6 },
-    new() { Id = 9, FullName = "Ходжиев Рустам", Age = 40, CityId = 2 },
+    new() { Id = 9, FullName = "Амиров Фарход", Age = 40, CityId = 2 },
     new() { Id = 10, FullName = "Содиков Джамшед", Age = 95, CityId = 1 } 
 };
 
 allServices.Task_1(cities);
 allServices.Task_2(cities);
+allServices.Task_3(cities);
+allServices.Task_4(cities);
+allServices.Task_5(countries);
+allServices.Task_6(countries);
+allServices.Task_7(countries);
+allServices.Task_8(countries);
+allServices.Task_9(countries);
+allServices.Task_10(countries);

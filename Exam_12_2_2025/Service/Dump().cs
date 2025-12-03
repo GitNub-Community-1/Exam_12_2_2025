@@ -17,11 +17,11 @@
             {
                 var props = type.GetProperties();
                 var values = props.Select(p => $"{p.Name} = {p.GetValue(item)}");
-                Console.WriteLine($"[{cnt++}] {{ {string.Join(" | ", values)} }}");
+                Console.WriteLine($"{cnt++} - {{ {string.Join(" | ", values)} }}");
             }
             else
             {
-                Console.WriteLine($"[{cnt++}] {item}");
+                Console.WriteLine($"{cnt++} - {item}");
             }
         }
         Console.WriteLine();
